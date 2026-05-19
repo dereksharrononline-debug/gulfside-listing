@@ -1,5 +1,5 @@
 // Gulfside Listing Presentation — offline service worker
-const CACHE = 'gulfside-listing-v1';
+const CACHE = 'gulfside-listing-v2';
 const ASSETS = [
   './',
   './index.html',
